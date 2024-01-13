@@ -99,7 +99,7 @@ try {
     if(denominator === 0) {
         throw Error("Division by zero error")
     }
-    console.log(quotient)
+    console.log("Quotient = " + quotient)
 } catch (error) {
     console.log("ERROR");
 } finally {
