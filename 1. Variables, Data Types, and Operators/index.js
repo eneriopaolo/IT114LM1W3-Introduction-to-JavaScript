@@ -36,7 +36,7 @@ console.log(num3)
 console.log(num3 ** 2)
 
 // Checkpoint 1.2 What operators did you use?
-// Answer: Increment, Decrement, Unary Negation, and Unary Plus
+// Answer: Increment, Decrement, Unary Negation, Unary Plus, and Exponential operator
 // Your code here
 
 // TODO 1.5 Try out the different string operators
